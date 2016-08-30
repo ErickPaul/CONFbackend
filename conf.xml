@@ -35,7 +35,7 @@
    </item>
    <item id="2">
        <name>Talk #2</name>
-       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+       <desc>A young Entrepreneurs Q&A will be held here to incorporate young people and their start up ideas.</desc>
        <start>1472715000000</start><!-- Stored in milliseconds  -->
        <end>1472718600000</end><!-- Stored in milliseconds  -->
        <venue>Nehru Hall</venue>
