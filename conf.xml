@@ -11,7 +11,7 @@
 <details>This conference is planned to start on the 2nd of September comprising of Trade leaders all over the world with talks generally circling around International trade and lifting of such trade barriers.</details><!-- Conference Details-->
 <reglink>https://www.google.com/forms</reglink><!-- Registration Web Link -->
 <sponsors type="individual"><!-- Sponsors -->
-   <item id="1">
+ <item id="1">
        <name>Sponsor #1</name>
        <image>https://mir-s3-cdn-cf.behance.net/project_modules/disp/3fe6027858667.55e61091bc63d.jpg</image>
    </item>
@@ -27,75 +27,75 @@
 <talks><!-- Talks -->
    <item id="1">
        <name>Talk #1</name>
-       <desc>The Prime Minister of Egypt Rashid Kumar is expected to give the key note speech on International Trade.</desc>
+       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
        <start>1472704200000</start><!-- Stored in milliseconds  -->
        <end>1472707800000</end><!-- Stored in milliseconds  -->
-       <venue>Mama Ngina Hall Rm. 302</venue>
+       <venue>Albert Hall</venue>
        <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
    </item>
    <item id="2">
        <name>Talk #2</name>
-       <desc>A young Entrepreneurs Q&A will be held here to incorporate yound people and their start up ideas.</desc>
+       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
        <start>1472715000000</start><!-- Stored in milliseconds  -->
        <end>1472718600000</end><!-- Stored in milliseconds  -->
-       <venue>Wangari Maathai Hall Rm. 221</venue>
+       <venue>Nehru Hall</venue>
        <image>http://www.example.com/talk2.jpg</image>
    </item>
    <item id="3">
        <name>Talk #3</name>
-       <desc>>Gupta Rajesh, son of the Prime Minister of India is expected to make a guest appearance with talks pertaining Young People And Tech.</desc>
+       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
        <start>1472722200000</start><!-- Stored in milliseconds  -->
        <end>1472729400000</end><!-- Stored in milliseconds  -->
-       <venue>Main Conference Hall Rm. 343</venue>
+       <venue>Gandhi Hall</venue>
        <image>http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/12/413826-swami.jpg</image>
    </item>
     <item id="4">
-       <name>Talk #1</name>
-       <desc>The Prime Minister of Egypt Rashid Kumar is expected to give the key note speech on International Trade.</desc>
-       <start>1472704200000</start><!-- Stored in milliseconds  -->
-       <end>1472707800000</end><!-- Stored in milliseconds  -->
-       <venue>Mama Ngina Hall Rm. 302</venue>
-       <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
-   </item>
-   <item id="5">
-       <name>Talk #2</name>
-       <desc>A young Entrepreneurs Q&A will be held here to incorporate yound people and their start up ideas.</desc>
-       <start>1472715000000</start><!-- Stored in milliseconds  -->
-       <end>1472718600000</end><!-- Stored in milliseconds  -->
-       <venue>Wangari Maathai Hall Rm. 221</venue>
-       <image>http://www.example.com/talk2.jpg</image>
-   </item>
-   <item id="6">
-       <name>Talk #3</name>
-       <desc>>Gupta Rajesh, son of the Prime Minister of India is expected to make a guest appearance with talks pertaining Young People And Tech.</desc>
-       <start>1472722200000</start><!-- Stored in milliseconds  -->
-       <end>1472729400000</end><!-- Stored in milliseconds  -->
-       <venue>Main Conference Hall Rm. 343</venue>
-       <image>http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/12/413826-swami.jpg</image>
-   </item>
+        <name>Talk #1</name>
+        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+        <start>1472790600000</start><!-- Stored in milliseconds  -->
+        <end>1472794200000</end><!-- Stored in milliseconds  -->
+        <venue>Albert Hall</venue>
+        <image>http://www.example.com/talk2.jpg</image>
+    </item>
+    <item id="5">
+        <name>Talk #2</name>
+        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+        <start>1472801400000</start><!-- Stored in milliseconds  -->
+        <end>1472805000000</end><!-- Stored in milliseconds  -->
+        <venue>Nehru Hall</venue>
+        <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
+    </item>
+    <item id="6">
+        <name>Talk #3</name>
+        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+        <start>1472808600000</start><!-- Stored in milliseconds  -->
+        <end>1472815800000</end><!-- Stored in milliseconds  -->
+        <venue>Gandhi Hall</venue>
+        <image>http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/12/413826-swami.jpg</image>
+    </item>
     <item id="7">
-       <name>Talk #1</name>
-       <desc>The Prime Minister of Egypt Rashid Kumar is expected to give the key note speech on International Trade.</desc>
-       <start>1472704200000</start><!-- Stored in milliseconds  -->
-       <end>1472707800000</end><!-- Stored in milliseconds  -->
-       <venue>Mama Ngina Hall Rm. 302</venue>
-       <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
-   </item>
-   <item id="8">
-       <name>Talk #2</name>
-       <desc>A young Entrepreneurs Q&A will be held here to incorporate yound people and their start up ideas.</desc>
-       <start>1472715000000</start><!-- Stored in milliseconds  -->
-       <end>1472718600000</end><!-- Stored in milliseconds  -->
-       <venue>Wangari Maathai Hall Rm. 221</venue>
-       <image>http://www.example.com/talk2.jpg</image>
-   </item>
-   <item id="9">
-       <name>Talk #3</name>
-       <desc>>Gupta Rajesh, son of the Prime Minister of India is expected to make a guest appearance with talks pertaining Young People And Tech.</desc>
-       <start>1472722200000</start><!-- Stored in milliseconds  -->
-       <end>1472729400000</end><!-- Stored in milliseconds  -->
-       <venue>Main Conference Hall Rm. 343</venue>
-       <image>http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/12/413826-swami.jpg</image>
-   </item>
+        <name>Talk #1</name>
+        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+        <start>1472877000000</start><!-- Stored in milliseconds  -->
+        <end>1472880600000</end><!-- Stored in milliseconds  -->
+        <venue>Albert Hall</venue>
+        <image>http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/12/413826-swami.jpg</image>
+    </item>
+    <item id="8">
+        <name>Talk #2</name>
+        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+        <start>1472887800000</start><!-- Stored in milliseconds  -->
+        <end>1472819400000</end><!-- Stored in milliseconds  -->
+        <venue>Nehru Hall</venue>
+        <image>http://www.example.com/talk2.jpg</image>
+    </item>
+    <item id="9">
+        <name>Talk #3</name>
+        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+        <start>1472895000000</start><!-- Stored in milliseconds  -->
+        <end>1472902200000</end><!-- Stored in milliseconds  -->
+        <venue>Gandhi Hall</venue>
+        <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
+    </item>
 </talks>
 </mconference>
