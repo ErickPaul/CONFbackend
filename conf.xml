@@ -97,7 +97,7 @@
         <venue>Gandhi Hall</venue>
         <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
     </item>
-     <item id="4">
+     <item id="10">
         <name>Talk #1</name>
         <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
         <start>1472790600000</start><!-- Stored in milliseconds  -->
@@ -105,7 +105,7 @@
         <venue>Albert Hall</venue>
         <image>http://www.example.com/talk2.jpg</image>
     </item>
-    <item id="5">
+    <item id="11">
         <name>Talk #2</name>
         <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
         <start>1472801400000</start><!-- Stored in milliseconds  -->
@@ -113,7 +113,7 @@
         <venue>Nehru Hall</venue>
         <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
     </item>
-    <item id="6">
+    <item id="12">
         <name>Talk #3</name>
         <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
         <start>1472808600000</start><!-- Stored in milliseconds  -->
