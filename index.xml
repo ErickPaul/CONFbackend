@@ -3,7 +3,7 @@
 	<start>1472668200000</start>
 	<venue>KICC Nairobi Kenya</venue>
 	<image>https://c402277.ssl.cf1.rackcdn.com/photos/9031/images/original/WWF_25mm_no_tab.png</image>
-	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference1.xml</config>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conf.xml</config>
 </conference>
 <conference>
 	<name>Conference #2</name>
