@@ -8,14 +8,14 @@
 <conference>
 	<name>Conference #2</name>
 	<start>1472841000000</start>
-	<venue>Indian Habitat Centre, Delhi</venue>
+	<venue>Hilton Nairobi, Mama Ngina Street, Nairobi</venue>
 	<image>http://www.kloover.com/wp-content/uploads/2008/09/detail_google_vertical-225x300.jpg</image>
 	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
 </conference>
 <conference>
 	<name>Conference #3</name>
 	<start>1473273000000</start>
-	<venue>Blue Diamond, Kolkata</venue>
+	<venue>Hotel Intercontinental, City-Hall Way, Nairobi, Nairobi County</venue>
 	<image>https://developers.google.com/open-source/gsoc/images/gsoc2016-sun-373x373.png</image>
 	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference1.xml</config>
 </conference>
@@ -29,21 +29,21 @@
 <conference>
 	<name>Conference #5</name>
 	<start>1473273000000</start>
-	<venue>BITS Pilani</venue>
+	<venue>Safari Park Hotel & Casino, Nairobi, Nairobi County</venue>
 	<image>http://management.ind.in/img/j/MPH-in-BITS-Pilani-1.jpg</image>
 	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference5.xml</config>
 </conference>
 <conference>
 	<name>Conference #6</name>
 	<start>1473273000000</start>
-	<venue>Hyderabad</venue>
+	<venue>Safari Park Hotel & Casino, Nairobi, Nairobi County</venue>
 	<image>http://i1-news.softpedia-static.com/images/news2/Goodbye-openSUSE-11-2-2.jpg</image>
 	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference6.xml</config>
 </conference>
 <conference>
 	<name>Conference #7</name>
 	<start>1473373000000</start>
-	<venue>Kengiri, Bangalore</venue>
+	<venue>The Nairobi Club, Nairobi, Nairobi County</venue>
 	<image>https://d18lkz4dllo6v2.cloudfront.net/cumulus_uploads/entry/2014-08-08/Wikipedia%20PIC.png?w=660</image>
 	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference7.xml</config>
 </conference>
