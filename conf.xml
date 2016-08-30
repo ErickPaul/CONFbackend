@@ -35,10 +35,10 @@
    </item>
    <item id="2">
        <name>Talk #2</name>
-       <desc>A young Entrepreneurs Q&A will be held here to incorporate yound people and their start up ideas.</desc>
+       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
        <start>1472715000000</start><!-- Stored in milliseconds  -->
        <end>1472718600000</end><!-- Stored in milliseconds  -->
-       <venue>KICC Main Hall 221</venue>
+       <venue>Nehru Hall</venue>
        <image>http://www.example.com/talk2.jpg</image>
    </item>
    <item id="3">
