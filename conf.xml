@@ -27,7 +27,7 @@
 <talks><!-- Talks -->
    <item id="1">
        <name>Talk #1</name>
-        <desc>The Prime Minister of Egypt Rashid Kumar is expected to give the key note speech on International Trade.</desc>
+       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
        <start>1472704200000</start><!-- Stored in milliseconds  -->
        <end>1472707800000</end><!-- Stored in milliseconds  -->
        <venue>Albert Hall</venue>
@@ -35,7 +35,7 @@
    </item>
    <item id="2">
        <name>Talk #2</name>
-       <desc>A young Entrepreneurs Q&A will be held here to incorporate yound people and their start up ideas.</desc>
+       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
        <start>1472715000000</start><!-- Stored in milliseconds  -->
        <end>1472718600000</end><!-- Stored in milliseconds  -->
        <venue>Nehru Hall</venue>
@@ -43,13 +43,12 @@
    </item>
    <item id="3">
        <name>Talk #3</name>
-       <desc>Gupta Rajesh, son of the Prime Minister of India is expected to make a guest appearance with talks pertaining Young People And Tech.</desc>
-       <start>1472722200000</start><!-- Stored in milliseconds  -->
+       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
        <start>1472722200000</start><!-- Stored in milliseconds  -->
        <end>1472729400000</end><!-- Stored in milliseconds  -->
        <venue>Gandhi Hall</venue>
        <image>http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/12/413826-swami.jpg</image>
-   </item>
+       </item>
     <item id="4">
         <name>Talk #1</name>
         <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
