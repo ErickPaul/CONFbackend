@@ -1,7 +1,7 @@
 <mconference>
 <name>TICAD Conference</name>
 <logo>http://www.example.com/logo.png</logo>
-<venue>TKICC, Nairobi, Nairobi County</venue>
+<venue>KICC, Nairobi, Nairobi County</venue>
 <time>
    <start>1472668200000</start><!-- Stored in milliseconds  -->
    <end>1472841000000</end><!-- Stored in milliseconds  -->
