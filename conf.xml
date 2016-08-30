@@ -1,7 +1,7 @@
 <mconference>
-<name>COMESA Conference</name>
+<name><font color="#7D3C98">TICAD Conference</font></name>
 <logo>http://www.example.com/logo.png</logo>
-<venue>Nairobi, Kenya</venue>
+<venue><font color="#7D3C98">Nairobi Kenya</font></venue>
 <time>
    <start>1472668200000</start><!-- Stored in milliseconds  -->
    <end>1472841000000</end><!-- Stored in milliseconds  -->
