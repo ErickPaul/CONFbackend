@@ -27,10 +27,10 @@
 <talks><!-- Talks -->
    <item id="1">
        <name>Talk #1</name>
-       <desc>The Prime Minister of Egypt Rashid Kumar is expected to give the key note speech on International Trade.</desc>
+       <desc>The Prime Minister of Trade, Egypt, Rashid Kumar is expected to give the key note speech on International Trade.</desc>
        <start>1472704200000</start><!-- Stored in milliseconds  -->
        <end>1472707800000</end><!-- Stored in milliseconds  -->
-       <venue>Albert Hall</venue>
+       <venue>Mama Ngina Hall Rm. 202</venue>
        <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
    </item>
    <item id="2">
