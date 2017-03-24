@@ -27,7 +27,9 @@
 <talks><!-- Talks -->
    <item id="1">
        <name>Stone Therapy</name>
-       <desc>Heated,smooth stones are placed on certain points on the body to warm and loosen tight muscles and balance energy centers.</desc>
+       <desc>Heated,smooth stones are placed on certain points on the body to warm and loosen tight muscles and balance energy centers.
+	   KSH: 2,500 PP.
+	   </desc>
        <start>1472704200000</start><!-- Stored in milliseconds  -->
        <end>1472707800000</end><!-- Stored in milliseconds  -->
        <venue>Namaste Lounge</venue>
@@ -35,7 +37,7 @@
    </item>
    <item id="2">
        <name>Thigh Therapy</name>
-       <desc>Detoxifying clays pulls toxins from deep within the skin as pure cane sugar sloughs expired cells to reveal.&#xD &#xDKSH: 2,500 PP </desc>
+       <desc>Detoxifying clays pulls toxins from deep within the skin as pure cane sugar sloughs expired cells to reveal.</desc>
        <start>1472715000000</start><!-- Stored in milliseconds  -->
        <end>1472718600000</end><!-- Stored in milliseconds  -->
        <venue>Nehru Trails</venue>
@@ -95,7 +97,7 @@
         <start>1472895000000</start><!-- Stored in milliseconds  -->
         <end>1472902200000</end><!-- Stored in milliseconds  -->
         <venue>Nehru Trails</venue>
-        <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body4.jpg</image>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body4.jpg</image>
     </item>
    
 </talks>
