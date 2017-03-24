@@ -10,7 +10,7 @@
 	<start>1472841000000</start>
 	<venue>Oasis Spa Point</venue>
 	<image>https://github.com/ErickPaul/CONFbackend/raw/master/imgg.jpg</image>
-	<config>https://raw.githubusercontent.com/BuildmLearn/mConference-Framework/2nd-approach/conference-xml/conference2.xml</config>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
 </conference>
 <conference>
 	<name>Spa and Resort</name>
