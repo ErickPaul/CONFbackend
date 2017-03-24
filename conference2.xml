@@ -1,27 +1,27 @@
 <mconference>
-<name>Conference #2</name>
+<name>Oasis Spa Point</name>
 <logo>http://www.example.com/logo.png</logo>
-<venue>Indian Habitat Centre, Delhi</venue>
+<venue>Oasis Spa Point</venue>
 <time>
    <start>1472668200000</start><!-- Stored in milliseconds  -->
    <end>1472841000000</end><!-- Stored in milliseconds  -->
 </time>
 <splashbg type="image">http://www.example.com/background.jpg</splashbg><!-- Splash Background -->
-<aboutbg>https://cdn-az.allevents.in/banners/9c4e10fe8efaf771cca752ecd1ff0138</aboutbg><!-- Background in About Fragment -->
+<aboutbg>http://www.theme-resorts.com/aliyaresort/wp-content/uploads/sites/2/2014/03/2-42.jpg</aboutbg><!-- Background in About Fragment -->
 <details>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</details><!-- Conference Details-->
 <reglink>https://www.google.com/forms</reglink><!-- Registration Web Link -->
 <sponsors type="individual"><!-- Sponsors -->
    <item id="1">
        <name>Sponsor #1</name>
-       <image>https://mir-s3-cdn-cf.behance.net/project_modules/disp/3fe6027858667.55e61091bc63d.jpg</image>
+       <image>http://blog.karachicorner.com/wp-content/uploads/2013/05/logo+design+17+32.jpg</image>
    </item>
    <item id="2">
        <name>Sponsor #2</name>
-       <image>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJqpA4Kx0817SYkXx4eZKRTOKXBjZOhHIc4mIkevic2qyaqvco</image>
+       <image>http://www.logodesignnz.com/wp-content/uploads/2009/08/hair_international_large1.jpg</image>
    </item>
    <item id="3">
        <name>Sponsor #3</name>
-       <image>https://developers.google.com/open-source/gsoc/images/gsoc2016-sun-373x373.png</image>
+       <image>http://wac.bceb.edgecastcdn.net/80BCEB/freshcreative/cdn/farfuture/8H_XvPKfn4pQQkAUQzQkjwnNYkbHCasBIxfexSqZxHU/mtime:1411452651/sites/default/files/styles/gallery_orginal/public/Sheike%20hair%20and%20Beauty_0.jpg?itok=S0moZAb9</image>
    </item>
 </sponsors>
 <talks><!-- Talks -->
