@@ -26,76 +26,52 @@
 </sponsors>
 <talks><!-- Talks -->
    <item id="1">
-       <name>Talk #1</name>
-       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+       <name>Stone Therapy</name>
+       <desc>Heated,smooth stones are placed on certain points on the body to warm and loosen tight muscles and balance energy centers.</desc>
        <start>1472704200000</start><!-- Stored in milliseconds  -->
        <end>1472707800000</end><!-- Stored in milliseconds  -->
-       <venue>Albert Hall</venue>
-       <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
+       <venue>Namaste Lounge</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body2.jpg</image>
    </item>
    <item id="2">
-       <name>Talk #2</name>
-       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+       <name>Thigh Therapy</name>
+       <desc>Detoxifying clays pulls toxins from deep within the skin as pure cane sugar sloughs expired cells to reveal.</desc>
        <start>1472715000000</start><!-- Stored in milliseconds  -->
        <end>1472718600000</end><!-- Stored in milliseconds  -->
-       <venue>Nehru Hall</venue>
-       <image>http://www.example.com/talk2.jpg</image>
+       <venue>Nehru Trails</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body4.jpg</image>
    </item>
    <item id="3">
-       <name>Talk #3</name>
-       <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
+       <name>G-8 Massage Therapy</name>
+       <desc>Discover the new technological advantages of the G8 Massage Therapy System! Exclusive electro-massage features include exclusive gyrating applicator heads for multiple beauty treatments and services. .</desc>
        <start>1472722200000</start><!-- Stored in milliseconds  -->
        <end>1472729400000</end><!-- Stored in milliseconds  -->
-       <venue>Gandhi Hall</venue>
-       <image>http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/12/413826-swami.jpg</image>
+       <venue>Gandhi Trails</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body3.jpg</image>
    </item>
     <item id="4">
-        <name>Talk #1</name>
-        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
-        <start>1472790600000</start><!-- Stored in milliseconds  -->
-        <end>1472794200000</end><!-- Stored in milliseconds  -->
-        <venue>Albert Hall</venue>
-        <image>http://www.example.com/talk2.jpg</image>
-    </item>
-    <item id="5">
-        <name>Talk #2</name>
-        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
-        <start>1472801400000</start><!-- Stored in milliseconds  -->
-        <end>1472805000000</end><!-- Stored in milliseconds  -->
-        <venue>Nehru Hall</venue>
-        <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
-    </item>
-    <item id="6">
-        <name>Talk #3</name>
-        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
-        <start>1472808600000</start><!-- Stored in milliseconds  -->
-        <end>1472815800000</end><!-- Stored in milliseconds  -->
-        <venue>Gandhi Hall</venue>
-        <image>http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/12/413826-swami.jpg</image>
-    </item>
-    <item id="7">
-        <name>Talk #1</name>
-        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
-        <start>1472877000000</start><!-- Stored in milliseconds  -->
-        <end>1472880600000</end><!-- Stored in milliseconds  -->
-        <venue>Albert Hall</venue>
-        <image>http://static.dnaindia.com/sites/default/files/styles/half/public/2016/01/12/413826-swami.jpg</image>
-    </item>
-    <item id="8">
-        <name>Talk #2</name>
-        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
-        <start>1472887800000</start><!-- Stored in milliseconds  -->
-        <end>1472819400000</end><!-- Stored in milliseconds  -->
-        <venue>Nehru Hall</venue>
-        <image>http://www.example.com/talk2.jpg</image>
-    </item>
-    <item id="9">
-        <name>Talk #3</name>
-        <desc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</desc>
-        <start>1472895000000</start><!-- Stored in milliseconds  -->
-        <end>1472902200000</end><!-- Stored in milliseconds  -->
-        <venue>Gandhi Hall</venue>
-        <image>http://blogs.gartner.com/smarterwithgartner/files/2015/03/Guy_Kawasaki_1_inline.jpg</image>
-    </item>
+       <name>Stone Therapy</name>
+       <desc>Heated,smooth stones are placed on certain points on the body to warm and loosen tight muscles and balance energy centers.</desc>
+       <start>1472704200000</start><!-- Stored in milliseconds  -->
+       <end>1472707800000</end><!-- Stored in milliseconds  -->
+       <venue>Namaste Lounge</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body2.jpg</image>
+   </item>
+   <item id="5">
+       <name>Thigh Therapy</name>
+       <desc>Detoxifying clays pulls toxins from deep within the skin as pure cane sugar sloughs expired cells to reveal.</desc>
+       <start>1472715000000</start><!-- Stored in milliseconds  -->
+       <end>1472718600000</end><!-- Stored in milliseconds  -->
+       <venue>Nehru Trails</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body4.jpg</image>
+   </item>
+   <item id="6">
+       <name>G-8 Massage Therapy</name>
+       <desc>Discover the new technological advantages of the G8 Massage Therapy System! Exclusive electro-massage features include exclusive gyrating applicator heads for multiple beauty treatments and services. .</desc>
+       <start>1472722200000</start><!-- Stored in milliseconds  -->
+       <end>1472729400000</end><!-- Stored in milliseconds  -->
+       <venue>Gandhi Trails</venue>
+       <image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/body3.jpg</image>
+   </item>
 </talks>
 </mconference>
