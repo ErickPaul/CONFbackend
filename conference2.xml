@@ -8,7 +8,7 @@
 </time>
 <splashbg type="image">http://www.example.com/background.jpg</splashbg><!-- Splash Background -->
 <aboutbg>http://www.theme-resorts.com/aliyaresort/wp-content/uploads/sites/2/2014/03/2-42.jpg</aboutbg><!-- Background in About Fragment -->
-<details>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</details><!-- Conference Details-->
+<details>Oasis Spa Point is a newly established state-of-the-art pampering point in the heart of Nairobi's Kilimani area. Located at a  serene and quiet neighborhood, the ambience is HIP, MELLOW and UNPRETENTIOUS.</details><!-- Conference Details-->
 <reglink>https://www.google.com/forms</reglink><!-- Registration Web Link -->
 <sponsors type="individual"><!-- Sponsors -->
    <item id="1">
