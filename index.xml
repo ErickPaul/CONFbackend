@@ -3,7 +3,7 @@
 	<start>1472668200000</start>
 	<venue>Mombasa Day Spa  Hair Lounge</venue>
 	<image>https://github.com/ErickPaul/CONFbackend/raw/master/imf.jpg</image>
-	<config>https://raw.githubusercontent.com/BuildmLearn/mConference-Framework/2nd-approach/conference-xml/conf.xml</config>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
 </conference>
 <conference>
 	<name>Spa and Hair</name>
@@ -17,33 +17,33 @@
 	<start>1473273000000</start>
 	<venue>Enashipai Resort Spa</venue>
 	<image>https://github.com/ErickPaul/CONFbackend/raw/master/imggg.jpg</image>
-	<config>https://raw.githubusercontent.com/BuildmLearn/mConference-Framework/2nd-approach/conference-xml/conference3.xml</config>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
 </conference>
 <conference>
 	<name>Spa and Resort</name>
 	<start>1473273000000</start>
 	<venue>Sarova Whitesands Beach Resort</venue>
 	<image>https://github.com/ErickPaul/CONFbackend/raw/master/imh.jpg</image>
-	<config>https://raw.githubusercontent.com/BuildmLearn/mConference-Framework/2nd-approach/conference-xml/conference4.xml</config>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
 </conference>
 <conference>
 	<name>Spa and Hair</name>
 	<start>1473273000000</start>
 	<venue>Ashley's Beauty and Hair Salon,Buruburu</venue>
 	<image>https://github.com/ErickPaul/CONFbackend/raw/master/imj.jpg</image>
-	<config>https://raw.githubusercontent.com/BuildmLearn/mConference-Framework/2nd-approach/conference-xml/conference5.xml</config>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
 </conference>
 <conference>
 	<name>Spa and Hair</name>
 	<start>1473273000000</start>
 	<venue>Tredds Salon And BARBER</venue>
 	<image>https://github.com/ErickPaul/CONFbackend/raw/master/img.jpg</image>
-	<config>https://raw.githubusercontent.com/BuildmLearn/mConference-Framework/2nd-approach/conference-xml/conference6.xml</config>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
 </conference>
 <conference>
 	<name>Spa and Hair</name>
 	<start>1473373000000</start>
 	<venue>Alfies - Hair. Beauty. Barber Shop.</venue>
 	<image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/imk.png</image>
-	<config>https://raw.githubusercontent.com/BuildmLearn/mConference-Framework/2nd-approach/conference-xml/conference7.xml</config>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
 </conference>
