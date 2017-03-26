@@ -1,4 +1,4 @@
-# CONFbackend
+# BlueMix
 
 <img
 src="https://bluemixassets.eu-gb.mybluemix.net/api/Products/image/logos/conversation.svg?key=[starter-watson-conversation]&event=readme-image-view" alt="Watson Conversation Logo" width="200px"/>
