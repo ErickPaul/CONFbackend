@@ -1,0 +1,49 @@
+<conference>
+	<name>Spa and Hair</name>
+	<start>1472668200000</start>
+	<venue>Alfies - Hair. Beauty. Barber Shop.</venue>
+	<image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/alfie.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference3.xml</config>
+</conference>
+<conference>
+	<name>Spa and Hair</name>
+	<start>1472841000000</start>
+	<venue>Oasis Spa Point</venue>
+	<image>https://github.com/ErickPaul/CONFbackend/raw/master/imgg.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
+</conference>
+<conference>
+	<name>Spa and Resort</name>
+	<start>1473273000000</start>
+	<venue>Enashipai Resort Spa</venue>
+	<image>https://github.com/ErickPaul/CONFbackend/raw/master/imggg.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
+</conference>
+<conference>
+	<name>Spa and Resort</name>
+	<start>1473273000000</start>
+	<venue>Sarova Whitesands Beach Resort</venue>
+	<image>https://github.com/ErickPaul/CONFbackend/raw/master/imh.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
+</conference>
+<conference>
+	<name>Spa and Hair</name>
+	<start>1473273000000</start>
+	<venue>Ashley's Beauty and Hair Salon,Buruburu</venue>
+	<image>https://github.com/ErickPaul/CONFbackend/raw/master/imj.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
+</conference>
+<conference>
+	<name>Spa and Hair</name>
+	<start>1473273000000</start>
+	<venue>Tredds Salon And BARBER</venue>
+	<image>https://github.com/ErickPaul/CONFbackend/raw/master/img.jpg</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
+</conference>
+<conference>
+	<name>Spa and Hair</name>
+	<start>1473373000000</start>
+	<venue>Alfies - Hair. Beauty. Barber Shop.</venue>
+	<image>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/imk.png</image>
+	<config>https://raw.githubusercontent.com/ErickPaul/CONFbackend/master/conference2.xml</config>
+</conference>
